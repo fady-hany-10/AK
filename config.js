@@ -1,7 +1,7 @@
 const config = {
     title: "White for woman",
     subtitle: " Welcome to my page",
-    logo: "logo.png",
+    logo: "logo (3).png",
     links: [
         {
             name: "Instagram",
