@@ -114,3 +114,7 @@ body {
     color: #555;
     font-weight: 500;
 }
+
+.btn-vodafone {
+    background-color: #e60000 !important;
+}
